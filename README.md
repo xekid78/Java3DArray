@@ -1,4 +1,4 @@
-# Java3DArray
+# Java3DdotPicAry
 三次元配列を使って複数のドット絵表示
 
 ## 処理
@@ -75,5 +75,6 @@ public class sample18 {
 ## 開発環境
 | 開発ツール |  |
 |:-|:-|
+| OS | Windows10 |
 | 統合開発環境(IDE) | Eclipse 4.7.0 Oxygen |
 | 開発言語 | Java8 |
