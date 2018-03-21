@@ -6,7 +6,7 @@
 
 ## コード
 ```
-public class sample18 {
+public class Dotpic3dary {
 
 	public static void main(String[] args) {
 		int[][][] letters =
